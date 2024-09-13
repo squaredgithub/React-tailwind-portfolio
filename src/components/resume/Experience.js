@@ -20,9 +20,9 @@ const Experience = () => {
           <div className="mt-10 md:mt-14 w-full border-l-[4px] md:border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-8 md:gap-10">
             <ResumeCard
               title="Software Engineer"
-              subTitle="Freelance - (2021 - Present)"
+              subTitle="Freelance - (2022 - Present)"
               result="Kenya"
-              des="Developed and delivered custom software solutions for diverse clients, focusing on web and desktop applications. Managed the full development lifecycle, from requirement analysis to deployment, ensuring high-quality code and client satisfaction. Specialized in Python, Django, React, HTML, CSS, Javascript, Node.js, PhP, Django and Java offering flexible, remote collaboration for timely project completion."
+              des="Developed and delivered custom software solutions for diverse clients, focusing on web and desktop applications. Managed the full development lifecycle, from requirement analysis to deployment, ensuring high-quality code and client satisfaction. Specialized in Python, Django, React, HTML, CSS, Javascript, Node.js, PhP and Java offering flexible, remote collaboration for timely project completion."
             />
             <ResumeCard
               title="Information Communication Technology Officer"
