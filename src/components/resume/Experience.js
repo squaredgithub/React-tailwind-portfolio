@@ -13,7 +13,7 @@ const Experience = () => {
         <div>
           <div className="flex flex-col gap-2 md:gap-4">
             <p className="text-xs md:text-sm text-designColor tracking-[2px] md:tracking-[4px]">
-              2019-Present
+              2022-Present
             </p>
             <h2 className="text-2xl md:text-4xl font-bold">Experience</h2>
           </div>
