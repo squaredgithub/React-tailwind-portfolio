@@ -25,6 +25,7 @@ const Projects = () => {
           title="E-commerce Website"
           des=" A modern E commerce web app to buy latest clothes.I used MERN tech stack for database,creating REST api and state management."
           src={commerce}
+          websiteLink="https://react-ecommerce4dev.netlify.app/"
         />
         <ProjectsCard
           title="Chatting App Clone"
@@ -35,6 +36,7 @@ const Projects = () => {
           title="Car wash management System"
           des=" A car and carpet wash management system that keeps the records of income and expenses and filters the data of certain duration which can be downloaded in a csv file for analysis.Used LAMP tech stack."
           src={carwash}
+          websiteLink="https://carwash.smatbiz.co.ke/index.php"
         />
       </div>
     </section>
