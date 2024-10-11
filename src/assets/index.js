@@ -1,4 +1,4 @@
-import bannerImg from "./images/ff.png";
+import bannerImg from "./images/profile.png";
 import contactImg from "./images/contact/contactImg.png"
 import carwash from "./images/projects/carwash.png";
 import commerce from "./images/projects/commerce.png";

@@ -3,9 +3,9 @@ import { HiArrowRight } from "react-icons/hi";
 
 const Scard = ({ item: { title, icon } }) => {
   return (
-    <div className="w-full px-6 h-60 py-6 rounded-lg shadow-shadowOne flex items-center bg-gradient-to-r from-bodyColor to-[#202327] group hover:bg-gradient-to-b hover:from-black hover:to-[#1e2024] transition-colors duration-100 group">
+    <div className="w-full px-6 h-60 py-6 rounded-lg flex items-center bg-gradient-to-r from-bodyColor to-[#202327] group hover:opacity-90 transition-opacity duration-300">
       <div className="h-52 overflow-y-hidden">
-        <div className="flex h-full flex-col gap-6 translate-y-12 group-hover:translate-y-0 transition-transform duration-500">
+        <div className="flex h-full flex-col gap-6 translate-y-12 transition-transform duration-500">
           <div className="w-8 h-6 flex flex-col justify-between">
             {icon ? (
               <span className="text-3xl text-designColor">{icon}</span>
@@ -22,7 +22,7 @@ const Scard = ({ item: { title, icon } }) => {
             )}
           </div>
           <div className="flex flex-col gap-4">
-            <h2 className="text-lg md:text-xl font-titleFont font-bold text-gray-300">
+            <h2 className="text-lg md:text-xl font-titleFont font-bold text-black-300">
               {title}
             </h2>
             <span className="text-xl text-designColor">
