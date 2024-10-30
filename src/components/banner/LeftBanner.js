@@ -16,17 +16,12 @@ const LeftBanner = () => {
          
         </h2>*/}
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        I am a Software Engineer,a digital marketer, a tech enthusiast, a hardworking, self-driven, always seeking to expand my skill set and
+        I am a Software Engineer,a tech enthusiast, a hardworking, self-driven, always seeking to expand my skill set and
         stay ahead of the latest technology.I do my duties diligently to the best of my knowledge. With strong analytical
         skills while executing my tasks, my strength lies in creativity for problem solving and to transform ideas to real
         world applications.Passion to deliver keeps me going.
         </p>
       </div>
-      <a href={CV} className="mt-5 inline-block">
-          <button className="px-6 py-3 bg-blue-500 text-white font-bold rounded hover:bg-blue-600 transition duration-300">
-            Download Resume
-          </button>
-      </a>
     </div>
   );
 }
