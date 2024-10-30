@@ -1,5 +1,4 @@
 import React from 'react'
-import CV from './FRANCIS_NJUGUNA_CV.pdf';
 
 const LeftBanner = () => {
     
