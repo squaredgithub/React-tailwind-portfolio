@@ -18,7 +18,7 @@ module.exports = {
         titleFont: ["Montserrat", "sans-serif"],
       },
       colors: {
-        bodyColor: "#adafd1",
+        bodyColor: "#008080",
         lightText: "#000000",
         boxBg: "#000000",
         designColor: "#000000",
