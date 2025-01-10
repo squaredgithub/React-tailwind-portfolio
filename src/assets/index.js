@@ -12,5 +12,6 @@ export {
   commerce,
   house,
   chat,
-  carwash
+  carwash,
+  telemed
 };
