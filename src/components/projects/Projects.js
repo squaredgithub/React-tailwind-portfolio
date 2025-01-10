@@ -19,7 +19,7 @@ const Projects = () => {
          <ProjectsCard
           title="Telemedicine"
           des=" A Telemedicine web application that facilitates Doctor appointments booking and Virtual consultations remotely"
-          src={commerce}
+          src={telemed}
           websiteLink="https://telemed-sigma.vercel.app/"
         />
         <ProjectsCard
