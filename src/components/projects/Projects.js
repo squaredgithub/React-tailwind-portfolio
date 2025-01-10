@@ -15,6 +15,13 @@ const Projects = () => {
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+
+         <ProjectsCard
+          title="Telemedicine"
+          des=" A Telemedicine web application that facilitates Doctor appointments booking and Virtual consultations remotely"
+          src={commerce}
+          websiteLink="https://telemed-sigma.vercel.app/"
+        />
         <ProjectsCard
           title="Real Estate Web app"
           des=" A modern real Estate web app for propery listingbuying a nd selling.Used docker for containerization,ngnix for load balancing,django for backend,react for frontend and postgress for database. "
